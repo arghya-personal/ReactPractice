@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background: bisque;
+  padding: 6px;
+  border: 1px solid royalblue;
+  margin-right: 10px;
+  cursor: pointer;
+}
+question-box {
+  margin-bottom: 10px;
+}
+.question {
+  font-weight: 600;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-bottom: 6px;
+}
